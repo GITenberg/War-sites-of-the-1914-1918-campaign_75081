@@ -1,0 +1,26 @@
+_repo: War-sites-of-the-1914-1918-campaign_75081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MOD, Belgian
+    gutenberg_agent_id: '57815'
+    url: http://www.gutenberg.org/2009/agents/57815
+description: ''
+gutenberg_issued: '2025-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75081'
+language: en
+pgterms:marc905: 20200428032527mod
+pgterms:marc906: '1923'
+pgterms:marc907: BE
+production_note: Richard Tonsing, Brian Coe, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aBrussels :$bBelgian MOD, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: War sites of the 1914-1918 campaign
+url: http://www.gutenberg.org/ebooks/75081
